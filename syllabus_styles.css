@@ -1,0 +1,24 @@
+
+
+	h1 {
+		color: black;
+	}
+
+	.quotation{
+		font-style: italic;
+	}
+
+	.important{
+		text-decoration: underline;
+	}
+
+	.highlighted{
+		background-color: yellow;
+	}
+
+	h2{
+		color: black;
+	}
+
+
+ 
